@@ -1,2 +1,3 @@
 print("groovy")
-print("rebo")
+print("rebol")
+print("lingo")
